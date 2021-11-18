@@ -9,7 +9,7 @@ function Sidebar() {
             <h2>I am the sidebar component!</h2>
 
             <div className="sidebar__top">
-                <h3>CMONSONNN</h3>
+                <h3>CMONSONNN!!</h3>
                 <ExpandMoreIcon />
             </div>
 
